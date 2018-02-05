@@ -1,0 +1,1 @@
+Block A will print the same value as block b because we are calling the same variable in writeline statement . 
